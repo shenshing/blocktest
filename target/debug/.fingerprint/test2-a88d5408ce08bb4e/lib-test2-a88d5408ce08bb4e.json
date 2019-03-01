@@ -1,0 +1,1 @@
+{"rustc":11779505878581416876,"features":"[]","target":15677292429043676296,"profile":11807177182346184354,"path":10872709659218687626,"deps":[["chrono v0.4.6","chrono",8168421706106302825]],"local":[{"MtimeBased":[[1551343815,850924610],".fingerprint/test2-a88d5408ce08bb4e/dep-lib-test2-a88d5408ce08bb4e"]}],"rustflags":[],"edition":"Edition2018"}
